@@ -2738,8 +2738,9 @@ a[href$="-logo"] {
     width: 18px;
 }
 .flair-fan.flair-col, a[href$="#complexity-logo"] {
-    background-position: -117px -1030px;
-    width: 33px;
+    background-position: -104px -137px;
+    width: 45px;
+    height: 20px;
 }
 .flair-fan.flair-cphwolves, a[href$="#cphwolves-logo"] {
     background-position: -188px -28px;
@@ -4560,14 +4561,34 @@ span.noCtrlF.keyNavAnnotation {
     width: 25px;
 }
 .flair-fan.flair-falcons, a[href$="#falcons-logo"] {
-    background-position: -152px -1030px;
+    background-position: -142px -1030px;
     width: 24px;
 }
 .flair-fan.flair-m80, a[href$="#m80-logo"] {
-    background-position: -176px -1030px;
+    background-position: -165px -1031px;
     width: 24px;
 }
 .flair-fan.flair-aurora, a[href$="#aurora-logo"] {
-    background-position: -199px -1030px;
+    background-position: -190px -1031px;
+    width: 24px;
+}
+.flair-fan.flair-metiz, a[href$="#metiz-logo"] {
+    background-position: -217px -1031px;
+    width: 24px;
+}
+.flair-fan.flair-betboom, a[href$="#betboom-logo"] {
+    background-position: -242px -1030px;
+    width: 28px;
+}
+.flair-fan.flair-chinggis, a[href$="#chinggis-logo"] {
+    background-position: -272px -1030px;
+    width: 24px;
+}
+.flair-fan.flair-b8, a[href$="#b8-logo"] {
+    background-position: -118px -1030px;
+    width: 25px;
+}
+.flair-fan.flair-bestia, a[href$="#bestia-logo"] {
+    background-position: -150px -137px;
     width: 24px;
 }
